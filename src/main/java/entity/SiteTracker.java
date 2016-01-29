@@ -2,6 +2,7 @@ package entity;
 
 /**
  * Created by faust on 28.01.16.
+ * // Chain Site and Tracker
  */
 public class SiteTracker implements ISiteTracker{
     private Site site;
